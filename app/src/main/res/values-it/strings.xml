@@ -599,4 +599,11 @@
     <string name="enter_pin">Inserisci PIN</string>
     <string name="pin">PIN</string>
     <string name="enter_current_pin">Inserisci PIN Corrente</string>
+    <string name="logged_account" formatted="true">Entrato come %s</string>
+    <string name="enter_pin_with_name" formatted="true">Inserisci il PIN per %s</string>
+    <string name="lock_profile">Blocca Profilo</string>
+    <string name="use_default_account">Usa Account Default</string>
+    <string name="skip_startup_account_select_pref">Salta la selezione dell\'account all\'avvio</string>
+    <string name="manage_accounts">Gestisci Accounts</string>
+    <string name="edit_account">Modifica account</string>
 </resources>
